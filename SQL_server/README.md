@@ -4,7 +4,7 @@ To install this project, follow these steps:
 1. Clone this repository to your local machine by running
 
 ```
-git clone https://github.com/kzaiets/college_database_group.git
+git clone https://github.com/g-m-desouza/portfolio/tree/master/SQL_server.git
 ```
 
 2. Navigate to the root directory of the project in your terminal.
