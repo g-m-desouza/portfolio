@@ -10,3 +10,13 @@ Key Highlights:
 
 This work aims to contribute to the advancement of medical image analysis by providing a robust approach for pneumonia detection, offering a foundation for future research and potential clinical application.
 
+## Installation
+To run this notebook:
+1. Ensure you have Python installed.
+2. Clone this repository.
+3. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## To run
+jupyter notebook final_assignment program.ipynb
